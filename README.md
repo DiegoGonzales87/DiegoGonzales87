@@ -1,8 +1,7 @@
-```markdown
-- 👋 Hi, I’m @DiegoGonzales  
-- 👀 Estoy interesado en programar  
-- 🌱 Actualmente estoy aprendiendo Laravel  
-- 💞️ Estoy buscando colaborar en proyectos en Python  
-- 📫 (https://bio.link/magicdesignefecto) 
-- 😄 Hi...hola...😄
-- ⚡ (https://bio.link/magicdesignefecto)   
+- 👋 ¡Hola! Soy **@DiegoGonzales**  
+- 👀 Apasionado por el mundo de la programación y la tecnología  
+- 🌱 Actualmente explorando las maravillas de **Laravel**  
+- 💞️ Busco colaborar en proyectos desafiantes usando **Python**  
+- 📫 Conoce más sobre mí: [Mi Bio Link](https://bio.link/magicdesignefecto)  
+- 😄 "¡Hola mundo!"... y tú, ¿qué tal?  
+- ⚡ ¡Descubre mis proyectos y locuras creativas aquí! 👉 [Explorar más](https://bio.link/magicdesignefecto)  
